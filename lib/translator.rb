@@ -9,7 +9,7 @@ emoticons.each do |key,value|
   new_hash[key][:japanese] = value[1]
 end
 
-new_hash
+  new_hash
 end
 
 
