@@ -13,7 +13,8 @@ end
 end
 
 
-def get_japanese_emoticon(file_path, emoticons}
+def get_japanese_emoticon(file_path, emoticon)
+  
   
 end
 
